@@ -21,4 +21,4 @@ developer profile, not a product identity.
 - `PULL_REQUEST_TEMPLATE.md` — default PR checklist.
 - `ISSUE_TEMPLATE/` — default issue templates.
 - `CODE_OF_CONDUCT.md` — organization conduct policy.
-- `LICENSE` — Apache License 2.0.
+- `LICENSE` — MIT License.

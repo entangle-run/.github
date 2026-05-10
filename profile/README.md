@@ -53,5 +53,5 @@ projection model should work when the parts live on different machines.
 
 ## License
 
-Entangle projects are open source under the Apache License 2.0 unless a
+Entangle projects are open source under the MIT License unless a
 repository states otherwise.
