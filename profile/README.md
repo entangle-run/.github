@@ -50,3 +50,8 @@ projection model should work when the parts live on different machines.
 - Website: <https://entangle.run>
 - Runtime: <https://github.com/entangle-run/entangle>
 - Website source: <https://github.com/entangle-run/entangle-website>
+
+## License
+
+Entangle projects are open source under the Apache License 2.0 unless a
+repository states otherwise.
