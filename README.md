@@ -22,3 +22,7 @@ developer profile, not a product identity.
 - `ISSUE_TEMPLATE/` — default issue templates.
 - `CODE_OF_CONDUCT.md` — organization conduct policy.
 - `LICENSE` — MIT License.
+
+Issue templates cover reproducible bugs, documentation corrections, feature or
+architecture requests, and validation reports for deterministic, real-provider,
+git, or physical federation runs.
